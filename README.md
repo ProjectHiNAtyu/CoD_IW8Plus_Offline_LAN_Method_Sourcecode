@@ -10,3 +10,9 @@ I sent the base of this code to BodNJenie, and he adjusted it to some extent for
 Special thanks to .r4v3n, the original discoverer who provided LAN-related hints in the MW19 Beta README.
 
 If you have any questions or issues, please contact me on my Discord.
+
+I have also released completed modded clients that use this LAN code.
+
+If you need them, please visit the repository below to download them.
+
+https://github.com/ProjectHiNAtyu/PHA_CoD_Modded_Clients_Release
