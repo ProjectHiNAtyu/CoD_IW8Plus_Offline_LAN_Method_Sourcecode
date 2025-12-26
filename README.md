@@ -3,6 +3,10 @@
 
 This source code is intended exclusively for Call of Duty: Modern Warfare (2019) version 1.38 (Battle.net build) and allows you to directly join a LAN session lobby.
 
+By the way, this method can be used across all CoD titles, including MW19, VG, MWII, and MWIII.
+
+I sent the base of this code to BodNJenie, and he adjusted it to some extent for use on the client.
+
 Special thanks to .r4v3n, the original discoverer who provided LAN-related hints in the MW19 Beta README.
 
 If you have any questions or issues, please contact me on my Discord.
